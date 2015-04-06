@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CountingGame</string>
+
+    <string name="remaining_time">Remaining Time: </string>
+    <string name="total_elapsed_time">Total Elapsed Time: </string>
+    <string name="level">Level: </string>
+    <string name="reset_game">Play Again</string>
+    <string name="game_completed">Game Completed</string>
+    <string name="game_over">Game Over</string>
+    <string name="congrats_message">Congratulations!! You cleared all the levels</string>
+    <string name="action_settings">Settings</string>
+</resources>
