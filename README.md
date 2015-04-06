@@ -1,5 +1,5 @@
 # CountingGame
-An number counting game android application for kids  
+A number counting game android application for kids  
 
 It aims to aid little kids to count.
 
